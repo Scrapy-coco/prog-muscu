@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Prog Muscu",
+    "slug": "prog-muscu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios"],
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.scrapycoco.progmuscu",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.scrapycoco.progmuscu"
+    }
+  }
+}
